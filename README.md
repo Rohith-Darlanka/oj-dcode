@@ -52,4 +52,7 @@ A modern, full-featured online judge built with the MERN stack, designed for sol
 - Google Generative AI (Gemini API)
 
 ---
-
+🧠 AI Code Review
+How it works:
+1.User clicks “AI Review”
+2.AI gives a review about the code.(gemini api)
