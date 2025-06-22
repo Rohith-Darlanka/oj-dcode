@@ -5,7 +5,7 @@ A modern, full-featured online judge built with the MERN stack, designed for sol
 ## 🌟 Live Demo
 
 🔗 **Try it live**: [https://oj-project-lyart.vercel.app/](https://oj-frontend-rouge.vercel.app/)  
-📽️ **Demo Video**: *[Click here for Demo Video]*
+📽️ **Demo Video**: https://www.loom.com/share/87df332dcbc449e9b2d969e2a36c83d4
 
 ---
 
